@@ -4,7 +4,7 @@
 </div>
 
 ### :woman_technologist: About Me :
-- I’m currently working as a Software Engineer and contributing to developing frontend and backend web applications in Huawei Egypt Office.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- I’m currently working as a Software Engineer and contributing to developing frontend web applications in Ejada.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💬 Ask me about: Software Engineering , Frontend ReactJS   
 - 📬Contact me by Email: omniakhaled418@gmail.com
 - 🔥 Check my Experience :https://flowcv.com/resume/v9o5fasep1
